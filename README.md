@@ -1,5 +1,5 @@
 # Burmese-OCR
 
-#input
+#Input Image
 
-<img src="./input.jpg">input
+<img src="./input.jpg" width="700px" height="500px">
