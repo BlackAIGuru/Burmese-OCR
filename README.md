@@ -2,4 +2,4 @@
 
 #input
 
-<img src="./input.jpg>input
+<img src="./input.jpg">input
