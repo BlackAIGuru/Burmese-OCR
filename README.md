@@ -6,4 +6,4 @@
 
 #Output
 
-<a href="https://github.com/STARTIGER0120/Burmese-OCR/blob/main/output.txt"> Output </a>
+<a href="https://github.com/STARTIGER0120/Burmese-OCR/blob/main/output.txt"> Output .txt file </a>
